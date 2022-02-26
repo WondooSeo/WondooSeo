@@ -60,9 +60,10 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 feature 차원 축소 �
 - 시각화 된 데이터로 두 그룹 간의 분류 가능성을 검증
 - 2020년 한국지능시스템학회 추계학술대회 [발표](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8)
 
-### [2021.01 ~ NOW] EIT 데이터를 이용한 AI-based Global Inhomogeneity(GI) index 구현 
+### [2021.01 ~ NOW] EIT 데이터를 이용한 AI-based Global Inhomogeneity(GI) index 구현
 #### 연세대학교 대학원
 - 기존 GI index가 가진 문제점을 AI로 해결
+- EIT 데이터 셋 제작 및 open source로 [배포](https://github.com/WondooSeo/Making_EIT_Data_with_EIDORS)
 - 현재 연구 진행 중
 
 # CERTIFICATION
