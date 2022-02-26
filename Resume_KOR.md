@@ -47,18 +47,21 @@ Python과 MATLAB을 이용하여 데이터를 시각화 및 feature 차원 축�
 - 여러 의학 기술/의학적 기능에 대한 분석 및 발표
 
 # PROJECT
-### [2020.03 ~ 2020.07] EEG 신호 채널 간 기능적 연결성 시각화 (연세대학교 대학원)
+### [2020.03 ~ 2020.07] EEG 신호 채널 간 기능적 연결성 시각화
+#### 연세대학교 대학원
 - 각 EEG 신호를 spectrogram(time - frequency axis)으로 시각화하여 특정 시간 대에 특정 뇌파 주파수의 발현을 관찰
 - 24채널 EEG 신호를 채널간 곱을 이용해 각 채널이 다른 채널과 연결이 되어있는지를 시각화
 - 2020년 한국지능시스템학회 춘계학술대회 [발표](https://drive.google.com/file/d/1YrOiAGTQ97ESviiUC3DkocjlTb8x36qA) 및 우수논문상 수상
 - 2020년 12월 KCI [등재](https://drive.google.com/file/d/1ZfJnI_f0r9sj5RBpiJbK1jODx0ITx5EF)
 
-### [2020.08 ~ 2020.12] 로봇 재활 EEG 데이터를 활용한 뇌졸중 회복레벨 분류 가능성 검증 (연세대학교 대학원)
+### [2020.08 ~ 2020.12] 로봇 재활 EEG 데이터를 활용한 뇌졸중 회복레벨 분류 가능성 검증
+#### 연세대학교 대학원
 - 뇌졸중 환자와 일반 노인의 EEG 데이터를 T-SNE 기법을 이용하여 1~3차원으로 시각화
 - 시각화 된 데이터로 분류 가능성을 검증
 - 2020년 한국지능시스템학회 추계학술대회 [발표](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8)
 
-### [2021.01 ~ NOW] EIT 데이터를 이용한 AI-based Global Inhomogeneity(GI) index 구현 (연세대학교 대학원)
+### [2021.01 ~ NOW] EIT 데이터를 이용한 AI-based Global Inhomogeneity(GI) index 구현 
+#### 연세대학교 대학원
 - 기존 GI index가 가진 문제점을 AI로 해결
 - 현재 연구 진행 중
 
