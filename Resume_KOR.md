@@ -40,7 +40,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 feature 차원 축소 �
 - Jira / Confluence
 
 # EXPERIENCE
-### [2021.09 ~ 2021.12] [(주)바이랩 (BiLab)](http://bilabhealthcare.com/)
+### [2021.09 ~ 2021.12] [바이랩 (BiLab)](http://bilabhealthcare.com/)
 #### 원천기술팀 인턴
 - Gini coefficient를 이용하여 환자의 폐 이상 정도를 기존 방법보다 효과적으로 index화 하는 알고리즘 개발
 - 의료기기의 특수 기능을 검증하기 위한 맞춤 데이터 제작
