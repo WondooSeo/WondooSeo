@@ -1,3 +1,9 @@
+<div align="center">
+
+  ![WDSeo](https://user-images.githubusercontent.com/62936579/155847302-01656898-f787-4c3d-b508-0c712bb51c81.jpg)
+
+</div>
+
 # 서원두 (徐沅杜 / Won-Doo Seo)
 Mail : wdseo@yonsei.ac.kr</br>
 GitHub : https://github.com/WondooSeo</br>
