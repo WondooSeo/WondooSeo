@@ -86,4 +86,4 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 feature 차원 축소 �
 # ETC
 - 공군 일병 의병 제대 (사유 : 심실 빈맥 발견, 현재는 매우 건강합니다!)
 - 트위치 스트리밍 약 3달 진행 경험
-- [김도한테천원줘야지](https://www.youtube.com/watch?v=l6h4AtenUTI) 밈 창시자
+- [김도한테천원줘야지](https://www.youtube.com/watch?v=l6h4AtenUTI) 트위치 밈 창시자
