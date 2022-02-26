@@ -52,7 +52,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 feature 차원 축소 �
 - 각 EEG 신호를 spectrogram(time - frequency axis)으로 시각화하여 특정 시간대의 특정 뇌파 주파수의 발현을 관찰
 - 24채널 EEG 신호를 채널간 곱을 이용해 각 채널이 다른 채널과 연결이 되어있는지를 시각화
 - 2020년 한국지능시스템학회 춘계학술대회 [발표](https://drive.google.com/file/d/1YrOiAGTQ97ESviiUC3DkocjlTb8x36qA) 및 우수논문상 수상
-- 2020년 12월 KCI [등재](https://drive.google.com/file/d/1ZfJnI_f0r9sj5RBpiJbK1jODx0ITx5EF)
+- 2020년 12월 KCI [등재](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002665757)
 
 ### [2020.08 ~ 2020.12] 로봇 재활 EEG 데이터를 활용한 뇌졸중 회복레벨 분류 가능성 검증
 #### 연세대학교 대학원
