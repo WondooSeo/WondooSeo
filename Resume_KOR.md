@@ -13,7 +13,7 @@ SNS (Instagram) : https://www.instagram.com/miracleboy_wondoo/</br>
 SNS (Twitter) : https://twitter.com/Wondoo_Seo</br>
 
 # INTRODUCE
-### 데이터 분석을 통해 사람들이 더 유익하고 즐겁게 경험하기를 원합니다.
+### 데이터 분석을 통해 사람들이 어플리케이션을 더 유익하고 즐겁게 경험하기를 원합니다.
 
 데이터에 대한 깊은 고찰과 분석을 통해 최적의 결과를 낸 경험이 있습니다.
 Python과 MATLAB을 이용하여 데이터 시각화 및 feature 차원 축소 등 여러 기법을 통해 데이터에 대한 insight를 찾아냅니다.
