@@ -4,7 +4,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WondooSeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![JerryThankYou](https://user-images.githubusercontent.com/62936579/155847175-c56a2755-7fef-4fc4-925f-ae8a7cd7ffc4.gif)
+  ![JerryThankYou](https://user-images.githubusercontent.com/62936579/155848063-dc625586-236e-4f50-a564-1d5d30fe59c2.gif)
   
   Thank you for visiting my GitHub!!!
   
