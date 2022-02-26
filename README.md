@@ -8,7 +8,7 @@
 
   M.S. Candidate in Dept. of Computer Science(Wonju), Yonsei University
   
-  [Resume (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/README.md)
+  [Resume (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/Resume_KOR.md)
 
   [Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home)
   
