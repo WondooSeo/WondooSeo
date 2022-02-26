@@ -2,8 +2,6 @@
   
   ![header](https://capsule-render.vercel.app/api?type=rounded&color=088A08&section=header&text=Won-Doo's%20GitHub&fontColor=ffffff)
 
-  ![My Stats](https://github-readme-stats.vercel.app/api?username=WondooSeo&count_private=true)
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WondooSeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   ![JerryThankYou](https://user-images.githubusercontent.com/62936579/155847175-c56a2755-7fef-4fc4-925f-ae8a7cd7ffc4.gif)
