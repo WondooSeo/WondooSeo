@@ -74,7 +74,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 feature 차원 축소 �
 
 # VOLUNTEER
 - **[2015.05 ~ NOW]** 헌혈 **18**회
-- **[2015.09 ~ 2016.12 | 2018.02 ~ 2019.12]** [연세굿웰니스센터](https://www.yonsei.ac.kr/wj/intro/pressrel.jsp?article_no=180064&mode=view)(前 연세장애아동체력증진실) 업무 보조 자원봉사
+- **[2015.09 ~ 2016.12 | 2018.02 ~ 2019.12]** [연세굿웰니스센터](https://www.yonsei.ac.kr/wj/intro/pressrel.jsp?article_no=180064&mode=view)(前 연세장애아동체력증진실) 업무 보조
 
 # COLUMN
 - **[2016.03]** 연세춘추 칼럼 [기고](http://chunchu.yonsei.ac.kr/news/articleView.html?idxno=21353) (제목 : 인공지능, 굳이 두려워 할 필요가 없다)
