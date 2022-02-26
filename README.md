@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=088A08&section=header&text=Won-Doo's%20github&fontColor=ffffff)
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=088A08&section=header&text=Won-Doo's%20GitHub&fontColor=ffffff)
 
   ![My Stats](https://github-readme-stats.vercel.app/api?username=WondooSeo&count_private=true)
 
