@@ -57,7 +57,7 @@ Python과 MATLAB을 이용하여 데이터를 시각화 및 feature 차원 축�
 ### [2020.08 ~ 2020.12] 로봇 재활 EEG 데이터를 활용한 뇌졸중 회복레벨 분류 가능성 검증
 #### 연세대학교 대학원
 - 뇌졸중 환자와 일반 노인의 EEG 데이터를 T-SNE 기법을 이용하여 1~3차원으로 시각화
-- 시각화 된 데이터로 분류 가능성을 검증
+- 시각화 된 데이터로 두 그룹 간의 분류 가능성을 검증
 - 2020년 한국지능시스템학회 추계학술대회 [발표](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8)
 
 ### [2021.01 ~ NOW] EIT 데이터를 이용한 AI-based Global Inhomogeneity(GI) index 구현 
