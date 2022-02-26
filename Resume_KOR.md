@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![WDSeo](https://user-images.githubusercontent.com/62936579/155847302-01656898-f787-4c3d-b508-0c712bb51c81.jpg)
+  ![WDSeo](https://user-images.githubusercontent.com/62936579/155848008-246960d7-d52b-4960-b817-a1c2e4eb3f27.jpg)
 
 </div>
 
@@ -66,19 +66,19 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 feature 차원 축소 �
 - 현재 연구 진행 중
 
 # CERTIFICATION
-- [**2015.07**] 자동차운전면허증 (1종보통) 취득
-- [**2017.05**] 정보처리기능사 취득
-- [**2017.11**] 정보처리산업기사 취득
-- [**2019.11**] 정보처리기사 취득
-- [**2021.05**] TOEIC 830점 취득
+- **[2015.07]** 자동차운전면허증 (1종보통) 취득
+- **[2017.05]** 정보처리기능사 취득
+- **[2017.11]** 정보처리산업기사 취득
+- **[2019.11]** 정보처리기사 취득
+- **[2021.05]** TOEIC 830점 취득
 
 # VOLUNTEER
-- [**2015.05 ~ NOW**] 헌혈 **18**회
-- [**2015.09 - 2016.12 | 2018.02 - 2019.12**] [연세굿웰니스센터](https://www.yonsei.ac.kr/wj/intro/pressrel.jsp?article_no=180064&mode=view)(전 연세장애아동체력증진실) 업무 보조 자원봉사
+- **[2015.05 ~ NOW]** 헌혈 **18**회
+- **[2015.09 ~ 2016.12 | 2018.02 ~ 2019.12]** [연세굿웰니스센터](https://www.yonsei.ac.kr/wj/intro/pressrel.jsp?article_no=180064&mode=view)(전 연세장애아동체력증진실) 업무 보조 자원봉사
 
 # COLUMN
-- [**2016.03**] 연세춘추 칼럼 [기고](http://chunchu.yonsei.ac.kr/news/articleView.html?idxno=21353) (제목 : 인공지능, 굳이 두려워 할 필요가 없다)
-- [**2020.08**] 페이스북 그룹 생활코딩 칼럼 [기고](https://www.facebook.com/groups/codingeverybody/permalink/4524734307567070/) (제목 : 청소년을 위한 컴퓨터공학(과학)의 길을 밝혀주는 팁들)
+- **[2016.03]** 연세춘추 칼럼 [기고](http://chunchu.yonsei.ac.kr/news/articleView.html?idxno=21353) (제목 : 인공지능, 굳이 두려워 할 필요가 없다)
+- **[2020.08]** 페이스북 그룹 생활코딩 칼럼 [기고](https://www.facebook.com/groups/codingeverybody/permalink/4524734307567070/) (제목 : 청소년을 위한 컴퓨터공학(과학)의 길을 밝혀주는 팁들)
 
 # ETC
-- 인터넷 방송 약 3달 진행 경험
+- 트위치 스트리밍 약 3달 진행 경험
