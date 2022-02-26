@@ -6,7 +6,7 @@
 
   ![JerryThankYou](https://user-images.githubusercontent.com/62936579/155848063-dc625586-236e-4f50-a564-1d5d30fe59c2.gif)
   
-  Thank you for visiting my GitHub!!!
+  **Thank you for visiting my GitHub!!!**
   
   [Resume (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/Resume_KOR.md)
 
