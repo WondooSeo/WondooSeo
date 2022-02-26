@@ -84,6 +84,6 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 feature 차원 축소 �
 - **[2020.08]** 페이스북 그룹 생활코딩 칼럼 [기고](https://www.facebook.com/groups/codingeverybody/permalink/4524734307567070/) (제목 : 청소년을 위한 컴퓨터공학(과학)의 길을 밝혀주는 팁들)
 
 # ETC
-- 군복무 상태 : 공군 일병 의병 제대 (사유 : 심실 빈맥 발견, 현재는 매우 건강합니다!)
+- 공군 일병 의병 제대 (사유 : 심실 빈맥 발견, 현재는 매우 건강합니다!)
 - 트위치 스트리밍 약 3달 진행 경험
 - [김도한테천원줘야지](https://www.youtube.com/watch?v=l6h4AtenUTI) 밈 창시자
