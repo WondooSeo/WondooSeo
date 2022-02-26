@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=8977AD&section=header&text=Won-Doo's%20github&fontColor=088A08)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=088A08&section=header&text=Won-Doo's%20github&fontColor=ffffff)
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=WondooSeo&count_private=true)
 
