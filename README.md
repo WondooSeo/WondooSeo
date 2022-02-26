@@ -12,4 +12,6 @@
 
   [Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home)
   
+  Current Goal : 1 Day 1 Commit!
+  
 </div>
