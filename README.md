@@ -7,7 +7,9 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WondooSeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   M.S. Candidate in Dept. of Computer Science(Wonju), Yonsei University
+  
+  [Resume (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/README.md)
 
-  See more info about me : https://sites.google.com/view/miracleboy-wondoo/home
+  [Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home)
   
 </div>
