@@ -49,7 +49,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 feature 차원 축소 �
 # PROJECT
 ### [2020.03 ~ 2020.07] EEG 신호 채널 간 기능적 연결성 시각화
 #### 연세대학교 대학원
-- 각 EEG 신호를 spectrogram(time - frequency axis)으로 시각화하여 특정 시간대의 특정 뇌파 주파수의 발현을 관찰
+- 각 EEG 신호를 spectrogram(time - frequency axis)으로 시각화하여 특정 시간대의 특정 뇌파 주파수의 활성화/비활성화를 관찰
 - 24채널 EEG 신호를 채널간 곱을 이용해 각 채널이 다른 채널과 연결이 되어있는지를 시각화
 - 2020년 한국지능시스템학회 춘계학술대회 [발표](https://drive.google.com/file/d/1YrOiAGTQ97ESviiUC3DkocjlTb8x36qA) 및 우수논문상 수상
 - 2020년 12월 KCI [등재](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002665757)
