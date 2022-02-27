@@ -29,7 +29,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 feature 차원 축소 �
 # EDUCATION
 - **[2012.03 ~ 2015.02]** 낙생고등학교 졸업
 - **[2015.03 ~ 2020.02]** 연세대학교 미래캠퍼스 컴퓨터공학과 졸업 (B.E.)
-- **[2020.03 ~ NOW]** 연세대학교 대학원 전산학과 졸업예정 (M.Sc.)
+- **[2020.03 ~ NOW]** 연세대학교 대학원 전산학과 졸업예정 (M.Sc.) - 지도교수 : [권혁남 교수님](https://scholar.google.com/citations?user=IgV5lQYAAAAJ&hl=ko&oi=ao)
 
 # SKILL
 ### Language
@@ -51,7 +51,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 feature 차원 축소 �
 #### 연세대학교 대학원
 - EEGLAB을 이용하여 EEG 채널의 신호를 spectrogram(time - frequency axis)으로 시각화하여 특정 시간대의 특정 뇌파 주파수의 활성화/비활성화를 관찰
 - Python을 이용하여 24채널 EEG 신호를 채널간 곱을 이용해 각 채널이 다른 채널과 연결이 되어있는지를 heatmap으로 [시각화](https://github.com/WondooSeo/EEG_csv_file_to_heatmap)
-- 2020년 한국지능시스템학회 춘계학술대회 [발표](https://drive.google.com/file/d/1YrOiAGTQ97ESviiUC3DkocjlTb8x36qA) 및 우수논문상 수상
+- 2020년 한국지능시스템학회 춘계학술대회 [발표](https://drive.google.com/file/d/1YrOiAGTQ97ESviiUC3DkocjlTb8x36qA/view?usp=sharing) 및 우수논문상 수상
 - 2020년 12월 KCI [등재](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002665757)
 
 ### [2020.08 ~ 2020.12] 로봇 재활 EEG 데이터를 활용한 뇌졸중 회복레벨 분류 가능성 검증
@@ -59,13 +59,22 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 feature 차원 축소 �
 - EEGLAB을 이용하여 뇌졸중 환자와 일반 노인의 EEG 데이터 중 특정 뇌파 주파수가 활성화되는 특정 시간대 조사
 - Python을 이용하여 특정 시간대에서의 두 그룹의 EEG 데이터 중 공통되는 20채널에 대해 T-SNE 기법을 이용하여 1~3차원으로 [시각화](https://github.com/WondooSeo/T_SNE_Plot)
 - 시각화 된 데이터로 두 그룹 간의 분류 가능성을 검증
-- 2020년 한국지능시스템학회 추계학술대회 [발표](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8)
+- 2020년 한국지능시스템학회 추계학술대회 [발표](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8/view?usp=sharing)
 
 ### [2021.01 ~ NOW] EIT 데이터를 이용한 AI-based Global Inhomogeneity(GI) index 구현
 #### 연세대학교 대학원
 - 기존 GI index가 가진 문제점을 AI로 해결
 - EIDORS를 이용하여 EIT 데이터 셋 제작 및 open source로 [배포](https://github.com/WondooSeo/Making_EIT_Data_with_EIDORS)
 - 현재 연구 진행 중
+
+# PAPER
+### Domestic Journal
+- [1] **Won-Doo Seo*** and Han Ul Yoon, "Simultaneous Inter-Channel EEG Activation and Brain Functional Connectivity," Journal of the KIIS, Vol. 30, No. 6, pp. 465-471, Dec, 2020
+
+### Domestic Conference
+- [1] Ik-Kyu Choi*, **Won-Doo Seo**, Se-Gun Lee and Tae-Eung Sung, "Introduction of Accuracy-block Generative Adversarial Network Algorithm," Proceedings of KIISE and KBS Joint Symposium, Vol. 13, No. 1, pp. 7-9, Sep, 2019
+- [2] **Won-Doo Seo*** and Han Ul Yoon, "Simultaneous Inter-channel Activation of EEG Signal and Brain Functional Connectivity," Proceedings of KIIS Spring Conference, Vol. 30, No. 1, pp. 145-146, Jun, 2020
+- [3] **Won-Doo Seo***, Dae-Han Sim and Han Ul Yoon, "A Validation Study for Stroke Recovery Level Classification Using Robotic Rehabilitation EEG Data," Proceedings of KIIS Autumn Conference, Vol. 30, No. 2, pp. 109-110, Nov, 2020
 
 # CERTIFICATION
 - **[2015.07]** 자동차운전면허증 (1종보통) 취득
