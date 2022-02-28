@@ -2,7 +2,9 @@
   
   ![header](https://capsule-render.vercel.app/api?type=rounded&color=088A08&section=header&text=Won-Doo's%20GitHub&fontColor=ffffff)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WondooSeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WondooSeo&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WondooSeo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   ![JerryThankYou](https://user-images.githubusercontent.com/62936579/155848063-dc625586-236e-4f50-a564-1d5d30fe59c2.gif)
   
