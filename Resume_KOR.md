@@ -28,8 +28,8 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 
 # EDUCATION
 - **[2012.03 ~ 2015.02]** 낙생고등학교 졸업
-- **[2015.03 ~ 2020.02]** 연세대학교 미래캠퍼스 컴퓨터공학과 졸업 (B.E.)
-- **[2020.03 ~ NOW]** 연세대학교 대학원 전산학과 졸업예정 (M.Sc.) - 지도교수 : [권혁남 교수님](https://scholar.google.com/citations?user=IgV5lQYAAAAJ&hl=ko&oi=ao)
+- **[2015.03 ~ 2020.02]** 연세대학교 미래캠퍼스 컴퓨터공학과 졸업 (B.E., 139학점, 3.8/4.3)
+- **[2020.03 ~ NOW]** 연세대학교 대학원 전산학과 졸업예정 (M.Sc. Candidate, 33학점, 3.96/4.3) - 지도교수 : [권혁남 교수님](https://scholar.google.com/citations?user=IgV5lQYAAAAJ&hl=ko&oi=ao)
 
 # SKILL
 ### Language
