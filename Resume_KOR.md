@@ -30,8 +30,9 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 
 # EDUCATION
 - **[2012.03 ~ 2015.02]** 낙생고등학교 졸업 (자연계)
-- **[2015.03 ~ 2020.02]** 연세대학교 미래캠퍼스 컴퓨터공학과 졸업 (B.E., 139학점, 3.8/4.3)
-- **[2020.03 ~ NOW]** 연세대학교 대학원 전산학과 졸업예정 (M.Sc. Candidate, 33학점, 3.96/4.3) - 지도교수 : [권혁남 교수님](https://scholar.google.com/citations?user=IgV5lQYAAAAJ&hl=ko&oi=ao)
+- **[2015.03 ~ 2020.02]** 연세대학교 미래캠퍼스 컴퓨터공학과 졸업 (B.E., 139학점, 3.8/4.3, **재수강/철회 없음**)
+- **[2020.03 ~ NOW]** 연세대학교 대학원 전산학과 졸업예정 (M.Sc. Candidate, **2년 전액 장학금(조기입학전형 선정)**, 33학점, 3.96/4.3)   </br>
+지도교수 : [권혁남 교수님](https://scholar.google.com/citations?user=IgV5lQYAAAAJ&hl=ko&oi=ao)
 
 # SKILL
 ### Language
@@ -51,7 +52,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 # PROJECT
 ### [2020.03 ~ 2020.07] EEG 신호 채널 간 기능적 연결성 시각화
 #### 연세대학교 대학원
-- EEGLAB을 이용하여 EEG 채널의 신호를 spectrogram(time - frequency axis)으로 시각화하여 특정 시간대의 특정 뇌파 주파수의 활성화/비활성화를 관찰
+- EEGLAB을 이용하여 EEG 채널의 신호를 spectrogram(time - frequency axis)으로 시각화 후 특정 시간대의 특정 뇌파 주파수의 활성화/비활성화를 관찰
 - Python을 이용하여 24채널 EEG 신호를 채널간 곱을 이용해 각 채널이 다른 채널과 연결이 되어있는지를 heatmap으로 [시각화](https://github.com/WondooSeo/EEG_csv_file_to_heatmap)하여 특정 영역들 간의 기능적 연결성을 확인
 - 2020년 한국지능시스템학회 춘계학술대회 [발표](https://drive.google.com/file/d/1YrOiAGTQ97ESviiUC3DkocjlTb8x36qA/view?usp=sharing) 및 우수논문상 수상
 - 2020년 12월 KCI [등재](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002665757)
@@ -71,12 +72,12 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 
 # PAPER
 ### Domestic Journal
-- [1] **Won-Doo Seo*** and Han Ul Yoon, "Simultaneous Inter-Channel EEG Activation and Brain Functional Connectivity," Journal of the KIIS, Vol. 30, No. 6, pp. 465-471, Dec, 2020
+- [1] **Won-Doo Seo*** and Han Ul Yoon, "Simultaneous Inter-Channel EEG Activation and Brain Functional Connectivity," Journal of the KIIS, Vol. 30, No. 6, pp. 465-471, Dec, 2020 [[Link]](https://drive.google.com/file/d/1ZfJnI_f0r9sj5RBpiJbK1jODx0ITx5EF/view?usp=sharing)
 
 ### Domestic Conference
-- [1] Ik-Kyu Choi*, **Won-Doo Seo**, Se-Gun Lee and Tae-Eung Sung, "Introduction of Accuracy-block Generative Adversarial Network Algorithm," Proceedings of KIISE and KBS Joint Symposium, Vol. 13, No. 1, pp. 7-9, Sep, 2019
-- [2] **Won-Doo Seo*** and Han Ul Yoon, "Simultaneous Inter-channel Activation of EEG Signal and Brain Functional Connectivity," Proceedings of KIIS Spring Conference, Vol. 30, No. 1, pp. 145-146, Jun, 2020
-- [3] **Won-Doo Seo***, Dae-Han Sim and Han Ul Yoon, "A Validation Study for Stroke Recovery Level Classification Using Robotic Rehabilitation EEG Data," Proceedings of KIIS Autumn Conference, Vol. 30, No. 2, pp. 109-110, Nov, 2020
+- [1] Ik-Kyu Choi*, **Won-Doo Seo**, Se-Gun Lee and Tae-Eung Sung, "Introduction of Accuracy-block Generative Adversarial Network Algorithm," Proceedings of KIISE and KBS Joint Symposium, Vol. 13, No. 1, pp. 7-9, Sep, 2019 [[Link]](https://drive.google.com/file/d/1prft1nRndYhAD7tidDOXcGgbBHTF5agl/view?usp=sharing)
+- [2] **Won-Doo Seo*** and Han Ul Yoon, "Simultaneous Inter-channel Activation of EEG Signal and Brain Functional Connectivity," Proceedings of KIIS Spring Conference, Vol. 30, No. 1, pp. 145-146, Jun, 2020 [[Link]](https://drive.google.com/file/d/1YrOiAGTQ97ESviiUC3DkocjlTb8x36qA/view?usp=sharing)
+- [3] **Won-Doo Seo***, Dae-Han Sim and Han Ul Yoon, "A Validation Study for Stroke Recovery Level Classification Using Robotic Rehabilitation EEG Data," Proceedings of KIIS Autumn Conference, Vol. 30, No. 2, pp. 109-110, Nov, 2020 [[Link]](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8/view?usp=sharing)
 
 # CERTIFICATION
 - **[2015.07]** 자동차운전면허증 (1종보통) 취득
@@ -89,7 +90,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 
 # VOLUNTEER
 - **[2015.05 ~ NOW]** 헌혈 **18**회
-- **[2015.09 ~ 2016.12 | 2018.02 ~ 2019.12]** [연세굿웰니스센터](https://www.yonsei.ac.kr/wj/intro/pressrel.jsp?article_no=180064&mode=view)(前 연세장애아동체력증진실) 업무 보조
+- **[2015.09 ~ 2016.12 | 2018.02 ~ 2019.12]** [연세굿웰니스센터](https://www.yonsei.ac.kr/wj/intro/pressrel.jsp?article_no=180064&mode=view)(前 연세장애아동체력증진실) 업무 보조 (7학기)
 
 # COLUMN
 - **[2016.03]** 연세춘추 칼럼 [기고](http://chunchu.yonsei.ac.kr/news/articleView.html?idxno=21353) (제목 : 인공지능, 굳이 두려워 할 필요가 없다)
@@ -99,7 +100,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 - **[2017.05 ~ 2017.12]** 군복무 - 공군 일병 의병 제대 (사유 : 심실 빈맥 발견, 현재는 매우 건강합니다!)
 - 대학원생 멘토링 프로그램에서 멘토로 참여 경험
 - 대한검도회 검도 1급(진)
-- 사이퍼즈 카인 마스터
+- 사이퍼즈 카인 캐릭터 랭킹 마스터 (In 100)
 - 트위터 사이퍼즈 관련 팔로워 2000↑ 봇 운영 경험
 - 트위치 스트리밍 약 3달 진행 경험
 - [김도한테천원줘야지](https://www.youtube.com/watch?v=l6h4AtenUTI) 트위치 밈 창시자
