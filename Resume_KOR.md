@@ -103,4 +103,4 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 - 사이퍼즈 카인 캐릭터 랭킹 마스터 (In 100)
 - 트위터 사이퍼즈 관련 팔로워 4000(↑) 봇 운영 경험
 - 트위치 스트리밍 3개월 진행 경험
-- [김도한테천원줘야지](https://www.youtube.com/watch?v=l6h4AtenUTI) 트위치 밈 창시자
+- [김도한테천원줘야지](https://youtu.be/QnZPmJvagU8?list=PLc0M9GuoXci5UxQHMjedjUly-_PVNaDL6&t=209) 트위치 밈 창시자
