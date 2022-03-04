@@ -41,7 +41,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 ### Co-op Tool
 - Jira / Confluence
 
-# EXPERIENCE
+# WORK EXPERIENCE
 ### [2021.09 ~ 2021.12] [바이랩 (BiLab)](http://bilabhealthcare.com/)
 #### 원천기술팀 인턴
 - Gini coefficient를 이용하여 환자의 폐 이상 정도를 기존 방법보다 효과적으로 index화 하는 알고리즘 개발
