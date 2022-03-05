@@ -10,7 +10,7 @@
   
   ![BOJ_40m_Submit](https://user-images.githubusercontent.com/62936579/156896878-1af2dd42-4dbe-4756-990c-c687e0612617.png)
 
-  **BOJ 40Mth Submission Winner!!!**
+  **BOJ 40Mth Submitter!!!**
 
   ![JerryThankYou](https://user-images.githubusercontent.com/62936579/155848063-dc625586-236e-4f50-a564-1d5d30fe59c2.gif)
   
