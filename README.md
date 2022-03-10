@@ -7,10 +7,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WondooSeo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=movegreen)](https://solved.ac/movegreen)
-  
-  ![BOJ_40m_Submit](https://user-images.githubusercontent.com/62936579/156896878-1af2dd42-4dbe-4756-990c-c687e0612617.png)
-
-  **BOJ 40Mth Submitter!!!**
 
   ![JerryThankYou](https://user-images.githubusercontent.com/62936579/155848063-dc625586-236e-4f50-a564-1d5d30fe59c2.gif)
   
@@ -21,5 +17,9 @@
   [Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home)
   
   Current Goal : 1 Day 1 Commit
+  
+  <!-- ![BOJ_40m_Submit](https://user-images.githubusercontent.com/62936579/156896878-1af2dd42-4dbe-4756-990c-c687e0612617.png) -->
+
+  <!-- **BOJ 40Mth Submitter!!!** -->
   
 </div>
