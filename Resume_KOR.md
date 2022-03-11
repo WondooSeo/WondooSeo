@@ -99,3 +99,11 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 # ETC.
 - 학부 내 대학원생 멘토링 프로그램에서 멘토로 참여 경험
 - 대한검도회 검도 1급
+
+---
+
+<div align = 'center'>
+
+  **COPYRIGHT © 2022 Won-Doo Seo, ALL RIGHTS RESERVED.**
+
+</div>
