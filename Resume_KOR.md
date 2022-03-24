@@ -94,7 +94,6 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 
 # COLUMN
 - **[2016.03]** 연세춘추 칼럼 [기고](http://chunchu.yonsei.ac.kr/news/articleView.html?idxno=21353) (제목 : 인공지능, 굳이 두려워 할 필요가 없다)
-- **[2020.08]** 페이스북 그룹 생활코딩 칼럼 [기고](https://www.facebook.com/groups/codingeverybody/permalink/4524734307567070/) (제목 : 청소년을 위한 컴퓨터공학(과학)의 길을 밝혀주는 팁들)
 
 # ETC.
 - 학부 내 대학원생 멘토링 프로그램에서 멘토로 참여 경험
