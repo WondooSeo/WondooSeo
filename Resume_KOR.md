@@ -68,7 +68,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 #### 연세대학교 대학원
 - 기존 GI index가 가진 문제점을 AI로 해결
 - EIDORS를 이용하여 EIT 데이터 셋 제작 및 open source로 [배포](https://github.com/WondooSeo/Making_EIT_Data_with_EIDORS)
-- 현재 연구 완료, 국내외 2개 컨퍼런스에 submission 
+- 현재 연구 완료, 국내외 2개 컨퍼런스에 submission 계획 중
 
 # PAPER
 ### Domestic Journal
