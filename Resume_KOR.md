@@ -64,11 +64,14 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 - 시각화 된 데이터로 두 그룹 간의 분류 가능성을 검증
 - 2020년 한국지능시스템학회 추계학술대회 [발표](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8/view?usp=sharing)
 
-### [2021.01 ~ NOW] EIT 데이터를 이용한 AI-based Global Inhomogeneity(GI) index 구현 (假題)
+### [2021.01 ~ NOW] Convolutional autoencoder와 neural regression을 이용한 폐의 허탈성 측정 방법 개발
 #### 연세대학교 대학원
-- 기존 GI index가 가진 문제점을 AI로 해결
-- EIDORS를 이용하여 EIT 데이터 셋 제작 및 open source로 [배포](https://github.com/WondooSeo/Making_EIT_Data_with_EIDORS)
-- 현재 연구 완료, 국내외 2개 컨퍼런스에 submission 계획 중
+- 폐의 허탈성 검증 방법 중 하나로 사용되는 Global Inhomogeneity index(GI index)는 사람의 개입으로 인해 index 값이 달라지는 문제점을 가지고 있으며, 이 문제점을 단 하나의 EIT 사진만을 이용하는 AI 모델로 해결하고자 함
+- EIDORS를 이용하여 커스텀 EIT 데이터 셋 [제작](https://github.com/WondooSeo/Making_EIT_Data_with_EIDORS)
+- Convolutional autoencoder와 neural regression을 합친 CAENR을 [제안](https://github.com/WondooSeo/Convolutional_AutoEncoder_Neural_Regression)
+- Convolutional autoencoder는 사진의 차원 축소를 위해 사용되었으며, neural regression은 사진의 축소된 차원 데이터에서 폐의 허탈성 정도(degree of lung collapse)로 회귀시키기 위해 사용
+- Error(μ, σ) = 3%, 2.1% 이며, 최대 오차는 5%를 기록
+- 국외 1개 컨퍼런스에 submission, 국내 1개 컨퍼런스에 submission 계획 중
 
 # PAPER
 ### Domestic Journal
