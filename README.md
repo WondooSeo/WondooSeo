@@ -10,7 +10,7 @@
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=movegreen)](https://solved.ac/movegreen)
 
-  ![JerryThankYou](https://user-images.githubusercontent.com/62936579/155848063-dc625586-236e-4f50-a564-1d5d30fe59c2.gif)
+  <!-- ![JerryThankYou](https://user-images.githubusercontent.com/62936579/155848063-dc625586-236e-4f50-a564-1d5d30fe59c2.gif) -->
   
   <!-- **Thank you for visiting my GitHub!!!** -->
   
