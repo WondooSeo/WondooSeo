@@ -14,11 +14,11 @@
   
   <!-- **Thank you for visiting my GitHub!!!** -->
   
-  [Resume (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/Resume_KOR.md)
+  **[Resume (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/Resume_KOR.md)**
 
-  [Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home)
+  **[Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home)**
   
-  Current Goal : 1 Day 1 Commit 1 Solve
+  **Current Goal : 1 Day 1 Commit 1 Solve**
   
   <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWondooSeo%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=WDSeo%27s+Github+Hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
   
