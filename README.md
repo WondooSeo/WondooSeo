@@ -1,6 +1,8 @@
 <div align="center">
   
   <!-- ![header](https://capsule-render.vercel.app/api?type=rounded&color=088A08&section=header&text=Won-Doo's%20GitHub&fontColor=ffffff) -->
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:548986,100:113C56&height=200&section=header&fontColor=FFFFFF&fontAlignY=30&descAlignY=50&text=Welcome!&desc=Won-Doo%20Seo's%20GitHub&fontSize=50)
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WondooSeo&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -10,7 +12,7 @@
 
   ![JerryThankYou](https://user-images.githubusercontent.com/62936579/155848063-dc625586-236e-4f50-a564-1d5d30fe59c2.gif)
   
-  **Thank you for visiting my GitHub!!!**
+  <!-- **Thank you for visiting my GitHub!!!** -->
   
   [Resume (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/Resume_KOR.md)
 
