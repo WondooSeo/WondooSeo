@@ -55,8 +55,8 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 #### 연세대학교 대학원
 - EEGLAB을 이용하여 EEG 채널의 신호를 spectrogram(time - frequency axis)으로 시각화 후 특정 시간대의 특정 뇌파 주파수의 활성화/비활성화를 관찰
 - Python을 이용하여 특정 뇌파 주파수의 활성화가 되는 시점에서의 24채널 EEG 신호를 채널간 곱을 이용해 각 채널이 다른 채널과 연결이 되어있는지를 heatmap으로 [시각화](https://github.com/WondooSeo/EEG_csv_file_to_heatmap)하여 특정 영역들 간의 기능적 연결성을 확인
-- 2020년 한국지능시스템학회([KIIS](http://fuzzy.or.kr/)) 춘계학술대회 [발표](https://drive.google.com/file/d/1YrOiAGTQ97ESviiUC3DkocjlTb8x36qA/view?usp=sharing) 및 우수논문상 수상
-- 2020년 12월 한국지능시스템학회지(JKIIS) KCI [등재](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002665757)
+- 2020년 [한국지능시스템학회](http://fuzzy.or.kr/)(KIIS) 춘계학술대회 [발표](https://drive.google.com/file/d/1YrOiAGTQ97ESviiUC3DkocjlTb8x36qA/view?usp=sharing) 및 우수논문상 수상
+- 2020년 12월 [한국지능시스템학회지](http://journal.fuzzy.or.kr/)(JKIIS) KCI [등재](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002665757)
 
 ### [2020.08 ~ 2020.12] 로봇 재활 EEG 데이터를 활용한 뇌졸중 회복레벨 분류 가능성 검증
 #### 연세대학교 대학원
@@ -72,6 +72,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 - Convolutional autoencoder와 neural regression을 합친 CAENR을 [제안](https://github.com/WondooSeo/Convolutional_AutoEncoder_Neural_Regression)
 - Convolutional autoencoder는 사진의 차원 축소를 위해 사용되었으며, neural regression은 사진의 축소된 차원 데이터에서 폐의 허탈성 정도(degree of lung collapse)로 회귀시키기 위해 사용
 - Error(μ, σ) = 3%, 2.1% 이며, 최대 오차는 5%를 기록
+- 차후 bio-electrical impedance에서 허탈성 정도를 예측하는 모델 구축을 목표로 함
 - [International Conference of Bioelectromagnetism, Electrical Bioimpedance, and Electrical Impedance Tomography(ICBEM-ICEBI-EIT) 2022](https://icbem-icebi-eit-2022.org/) Accept 및 2022년 [한국산업응용수학회](https://ksiam.org/) 춘계학술대회 Accept
 
 # PAPER
