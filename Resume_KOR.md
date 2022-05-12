@@ -31,8 +31,9 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 - **[2012.03 ~ 2015.02]** 낙생고등학교 졸업 (자연계)
 - **[2015.03 ~ 2020.02]** 연세대학교 미래캠퍼스 컴퓨터공학과 졸업 (B.E., 139학점, GPA 3.8/4.3, **재수강/철회 없음**)
 - **[2017.05 ~ 2017.12]** 군복무 - 공군 일병 의병 제대 (사유 : 심실 빈맥 발견, 현재는 매우 건강합니다!)
-- **[2020.03 ~ NOW]** 연세대학교 대학원 전산학과 졸업예정 (M.Sc. Candidate, **2년 전액 장학금(조기입학전형 특전)**, 33학점, GPA 3.96/4.3)   </br>
-지도교수 : [권혁남 교수님](https://scholar.google.com/citations?user=IgV5lQYAAAAJ&hl=ko&oi=ao)
+- **[2020.03 ~ 2020.08]** 연세대학교 대학원 전산학과 졸업예정 (M.Sc. Candidate, **2년 전액 장학금(조기입학전형 특전)**, 33학점, GPA 3.96/4.3)   </br>
+지도교수 : [권혁남 교수님](https://scholar.google.com/citations?user=IgV5lQYAAAAJ&hl=ko&oi=ao)   </br>
+석사학위논문 제목 : 생체 데이터의 차원 축소를 이용한 뇌졸중 분류 가능성 검증과 폐의 허탈성 검출
 
 # SKILL
 ### Language
@@ -54,15 +55,15 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 #### 연세대학교 대학원
 - EEGLAB을 이용하여 EEG 채널의 신호를 spectrogram(time - frequency axis)으로 시각화 후 특정 시간대의 특정 뇌파 주파수의 활성화/비활성화를 관찰
 - Python을 이용하여 특정 뇌파 주파수의 활성화가 되는 시점에서의 24채널 EEG 신호를 채널간 곱을 이용해 각 채널이 다른 채널과 연결이 되어있는지를 heatmap으로 [시각화](https://github.com/WondooSeo/EEG_csv_file_to_heatmap)하여 특정 영역들 간의 기능적 연결성을 확인
-- 2020년 한국지능시스템학회 춘계학술대회 [발표](https://drive.google.com/file/d/1YrOiAGTQ97ESviiUC3DkocjlTb8x36qA/view?usp=sharing) 및 우수논문상 수상
-- 2020년 12월 KCI [등재](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002665757)
+- 2020년 한국지능시스템학회([KIIS](http://fuzzy.or.kr/)) 춘계학술대회 [발표](https://drive.google.com/file/d/1YrOiAGTQ97ESviiUC3DkocjlTb8x36qA/view?usp=sharing) 및 우수논문상 수상
+- 2020년 12월 한국지능시스템학회지(JKIIS) KCI [등재](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002665757)
 
 ### [2020.08 ~ 2020.12] 로봇 재활 EEG 데이터를 활용한 뇌졸중 회복레벨 분류 가능성 검증
 #### 연세대학교 대학원
 - EEGLAB을 이용하여 뇌졸중 환자와 일반 노인의 EEG 데이터 중 특정 뇌파 주파수가 활성화되는 특정 시간대 조사
 - Python을 이용하여 특정 시간대에서의 두 그룹의 EEG 데이터 중 공통되는 20채널에 대해 T-SNE 기법을 이용하여 1~3차원으로 [시각화](https://github.com/WondooSeo/T_SNE_Plot)
 - 시각화 된 데이터로 두 그룹 간의 분류 가능성을 검증
-- 2020년 한국지능시스템학회 추계학술대회 [발표](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8/view?usp=sharing)
+- 2020년 한국지능시스템학회(KIIS) 추계학술대회 [발표](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8/view?usp=sharing)
 
 ### [2021.01 ~ NOW] AI 모델을 이용한 폐의 허탈성 측정 방법 개발
 #### 연세대학교 대학원
@@ -71,7 +72,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 - Convolutional autoencoder와 neural regression을 합친 CAENR을 [제안](https://github.com/WondooSeo/Convolutional_AutoEncoder_Neural_Regression)
 - Convolutional autoencoder는 사진의 차원 축소를 위해 사용되었으며, neural regression은 사진의 축소된 차원 데이터에서 폐의 허탈성 정도(degree of lung collapse)로 회귀시키기 위해 사용
 - Error(μ, σ) = 3%, 2.1% 이며, 최대 오차는 5%를 기록
-- 국외 1개 컨퍼런스에 submission, 국내 1개 컨퍼런스에 submission 계획 중
+- [International Conference of Bioelectromagnetism, Electrical Bioimpedance, and Electrical Impedance Tomography(ICBEM-ICEBI-EIT) 2022](https://icbem-icebi-eit-2022.org/) Accept 및 2022년 [한국산업응용수학회](https://ksiam.org/) 춘계학술대회 Accept
 
 # PAPER
 ### Domestic Journal
