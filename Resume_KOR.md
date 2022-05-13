@@ -79,20 +79,20 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 - Convolutional autoencoder는 사진의 차원 축소를 위해 사용되었으며, neural regression은 사진의 축소된 차원 데이터에서 폐의 허탈성 정도(degree of lung collapse)로 회귀시키기 위해 사용
 - Error(μ, σ) = 3%, 2.1% 이며, 최대 오차는 5%를 기록
 - 차후 bio-electrical impedance에서 허탈성 정도를 예측하는 모델 구축을 목표로 함
-- [ICBEM-ICEBI-EIT(International Conference of Bioelectromagnetism, Electrical Bioimpedance, and Electrical Impedance Tomography) 2022](https://icbem-icebi-eit-2022.org/) Accept 및 2022년 [한국산업응용수학회](https://ksiam.org/) 춘계학술대회 Accept
+- [International Conference of Bioelectromagnetism, Electrical Bioimpedance, and Electrical Impedance Tomography(ICBEM-ICEBI-EIT) 2022](https://icbem-icebi-eit-2022.org/) Accept 및 2022년 [한국산업응용수학회](https://ksiam.org/) 춘계학술대회 Accept
 
 # PAPER
 ### International Conference
-- [1] **Won-Doo Seo*** and Hyeuknam Kwon, "The degree of lung collapse estimation method using convolutional autoencoder and neural regression in electrical impedance tomography," ICBEM-ICEBI-EIT, Accepted, Jun, 2022.
+- [1] **Won-Doo Seo*** and Hyeuknam Kwon, "The degree of lung collapse estimation method using convolutional autoencoder and neural regression in electrical impedance tomography," ICBEM-ICEBI-EIT, Accepted, Seoul, Republic of Korea, Jun. 29-Jul. 1, 2022.
 
 ### Domestic Journal
 - [1] **Won-Doo Seo*** and Han Ul Yoon, "Simultaneous inter-channel EEG activation and brain functional connectivity," Journal of the KIIS, Vol. 30, No. 6, pp. 465-471, Dec, 2020. [[Link]](https://drive.google.com/file/d/1ZfJnI_f0r9sj5RBpiJbK1jODx0ITx5EF/view?usp=sharing)
 
 ### Domestic Conference
-- [1] Ik-Kyu Choi*, **Won-Doo Seo**, Se-Gun Lee and Tae-Eung Sung, "Introduction of accuracy-block generative adversarial network algorithm," Proceedings of KIISE and KBS Joint Symposium, Vol. 13, No. 1, pp. 7-9, Sep, 2019. [[Link]](https://drive.google.com/file/d/1prft1nRndYhAD7tidDOXcGgbBHTF5agl/view?usp=sharing)
-- [2] **Won-Doo Seo*** and Han Ul Yoon, "Simultaneous inter-channel activation of EEG signal and brain functional connectivity," Proceedings of KIIS Spring Conference, Vol. 30, No. 1, pp. 145-146, Jun, 2020. [[Link]](https://drive.google.com/file/d/1YrOiAGTQ97ESviiUC3DkocjlTb8x36qA/view?usp=sharing)
-- [3] **Won-Doo Seo***, Dae-Han Sim and Han Ul Yoon, "A validation study for stroke recovery level classification using robotic rehabilitation EEG data," Proceedings of KIIS Autumn Conference, Vol. 30, No. 2, pp. 109-110, Nov, 2020. [[Link]](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8/view?usp=sharing)
-- [4] **Won-Doo Seo*** and Hyeuknam Kwon, "Estimating the degree of lung collapse using convolutional autoencoder and neural regression in electrical impedance tomography," KSIAM Spring Conference, Accepted, May, 2022.
+- [1] Ik-Kyu Choi*, **Won-Doo Seo**, Se-Gun Lee and Tae-Eung Sung, "Introduction of accuracy-block generative adversarial network algorithm," Proceedings of KIISE and KBS Joint Symposium, Vol. 13, No. 1, pp. 7-9, Chuncheon, Republic of Korea, Sep. 27, 2019. [[Link]](https://drive.google.com/file/d/1prft1nRndYhAD7tidDOXcGgbBHTF5agl/view?usp=sharing)
+- [2] **Won-Doo Seo*** and Han U. 26-27l Yoon, "Simultaneous inter-channel activation of EEG signal and brain functional connectivity," Proceedings of KIIS Spring Conference, Vol. 30, No. 1, pp. 145-146, Seoul, Republic of Korea, Jun, 2020. [[Link]](https://drive.google.com/file/d/1YrOiAGTQ97ESviiUC3DkocjlTb8x36qA/view?usp=sharing)
+- [3] **Won-Doo Seo***, Dae-Han Sim and Han Ul Yoon, "A validation study for stroke recovery level classification using robotic rehabilitation EEG data," Proceedings of KIIS Autumn Conference, Vol. 30, No. 2, pp. 109-110, Jeonju, Republic of Korea, Nov. 27-28, 2020. [[Link]](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8/view?usp=sharing)
+- [4] **Won-Doo Seo*** and Hyeuknam Kwon, "Estimating the degree of lung collapse using convolutional autoencoder and neural regression in electrical impedance tomography," KSIAM Spring Conference, Accepted, Daejeon, Republic of Korea, May. 27-29, 2022.
 
 # CERTIFICATION
 - **[2015.07]** 자동차운전면허증 (1종보통) 취득
