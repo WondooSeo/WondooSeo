@@ -36,6 +36,12 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 석사학위논문 제목 : 생체 데이터의 차원 축소를 이용한 뇌졸중 분류 가능성 검증과 폐의 허탈성 검출 (예정)
 
 # SKILL
+### Field of Interest
+- Data analysis
+- Machine learning
+- Artificial intelligence
+- Bio-signal processing
+- Game studies
 ### Language
 - Python 3
 - MATLAB
