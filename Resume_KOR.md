@@ -92,7 +92,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 - [1] Ik-Kyu Choi*, **Won-Doo Seo**, Se-Gun Lee and Tae-Eung Sung, "Introduction of accuracy-block generative adversarial network algorithm," Proceedings of KIISE and KBS Joint Symposium, Chuncheon, Republic of Korea, September 27, 2019. [[Link]](https://drive.google.com/file/d/1prft1nRndYhAD7tidDOXcGgbBHTF5agl/view?usp=sharing)
 - [2] **Won-Doo Seo*** and Han Ul Yoon, "Simultaneous inter-channel activation of EEG signal and brain functional connectivity," Proceedings of KIIS Spring Conference, Seoul, Republic of Korea, June 26-27, 2020. [[Link]](https://drive.google.com/file/d/1YrOiAGTQ97ESviiUC3DkocjlTb8x36qA/view?usp=sharing) **(우수논문상 수상)**
 - [3] **Won-Doo Seo***, Dae-Han Sim and Han Ul Yoon, "A validation study for stroke recovery level classification using robotic rehabilitation EEG data," Proceedings of KIIS Autumn Conference, Jeonju, Republic of Korea, November 27-28, 2020. [[Link]](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8/view?usp=sharing)
-- [4] **Won-Doo Seo*** and Hyeuknam Kwon, "Estimating the degree of lung collapse using convolutional autoencoder and neural regression in electrical impedance tomography," KSIAM Spring Conference, Accepted, Daejeon, Republic of Korea, May 27-29, 2022. [TBU]
+- [4] **Won-Doo Seo*** and Hyeuknam Kwon, "Estimating the degree of lung collapse using convolutional autoencoder and neural regression in electrical impedance tomography," KSIAM Spring Conference, Accepted, Daejeon, Republic of Korea, May 27-29, 2022. [TBU]() [Poster](https://drive.google.com/file/d/1UvSrQ04j4IDEvCDrHFvUv1P1ADmTA0qD/view?usp=sharing)
 
 # CERTIFICATION
 - **[2015.07]** 자동차운전면허증 (1종보통) 취득
