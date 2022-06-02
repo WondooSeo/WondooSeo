@@ -4,6 +4,10 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:548986,100:113C56&height=200&section=header&fontColor=FFFFFF&fontAlignY=30&descAlignY=50&text=Welcome!&desc=Won-Doo%20Seo's%20GitHub&fontSize=50)
   
+  **[Resumé (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/Resume_KOR.md)**
+
+  **[Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home)**
+  
   **↓ CONTACT ME WITH ↓**
   
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/WonDooSeo)
@@ -32,10 +36,6 @@
   <!-- ![JerryThankYou](https://user-images.githubusercontent.com/62936579/155848063-dc625586-236e-4f50-a564-1d5d30fe59c2.gif) -->
   
   <!-- **Thank you for visiting my GitHub!!!** -->
-  
-  **[Resumé (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/Resume_KOR.md)**
-
-  **[Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home)**
   
   **Current Goal : 1 Day 1 Commit 1 Solve**
   
