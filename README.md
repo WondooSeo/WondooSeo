@@ -38,9 +38,7 @@
   ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
   
   </br>
-  
-  <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWondooSeo%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=WDSeo%27s+Github+Hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
-  
+    
   <!-- ![BOJ_40m_Submit](https://user-images.githubusercontent.com/62936579/156896878-1af2dd42-4dbe-4756-990c-c687e0612617.png) -->
 
   <!-- **BOJ 40Mth Submitter!!!** -->
