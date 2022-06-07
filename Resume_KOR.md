@@ -105,7 +105,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 - **[2021.05]** TOEIC 830점
 
 # VOLUNTEER
-- **[2015.05 ~ NOW]** 헌혈 **19**회
+- **[2015.05 ~ NOW]** 헌혈 **20**회
 - **[2015.09 ~ 2016.12 | 2018.02 ~ 2019.12]** [연세굿웰니스센터](https://www.yonsei.ac.kr/wj/intro/pressrel.jsp?article_no=180064&mode=view)(前 연세장애아동체력증진실) 업무 보조 (7학기)
 
 # COLUMN
