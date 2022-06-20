@@ -68,7 +68,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 
 ### [2020.08 ~ 2020.12] 로봇 재활 EEG 데이터를 활용한 뇌졸중 회복레벨 분류 가능성 검증
 #### 연세대학교 대학원
-- EEGLAB을 이용하여 뇌졸중 환자와 일반 노인의 EEG 데이터 중 특정 뇌파 주파수가 활성화되는 특정 시간대 조사
+- EEGLAB을 이용하여 뇌졸중 환자와 일반 노인의 로봇 재활 중 발생한 EEG 데이터 중 특정 뇌파 주파수가 활성화되는 특정 시간대 조사
 - Python을 이용하여 특정 시간대에서의 두 그룹의 EEG 데이터 중 공통되는 20채널에 대해 T-SNE 기법을 이용하여 1~3차원으로 [시각화](https://github.com/WondooSeo/T_SNE_Plot)
 - 시각화 된 데이터로 두 그룹 간의 분류 가능성을 검증
 - 2020년 한국지능시스템학회(KIIS) 추계학술대회 oral [발표](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8/view?usp=sharing)
