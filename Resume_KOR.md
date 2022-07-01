@@ -120,7 +120,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 
 <div align = 'center'>
 
-  **인생은 도주마逃走馬처럼**
+  🏇 **인생은 도주마逃走馬처럼** 🏇
   
   **COPYRIGHT © 2022 Won-Doo Seo, ALL RIGHTS RESERVED.**
 
