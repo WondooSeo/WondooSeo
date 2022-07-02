@@ -73,7 +73,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 - 시각화 된 데이터로 두 그룹 간의 분류 가능성을 검증
 - 2020년 한국지능시스템학회(KIIS) 추계학술대회 oral [발표](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8/view?usp=sharing)
 
-### [2021.01 ~ NOW] AI 모델을 이용한 폐의 허탈성 정도 측정 방법 개발
+### [2021.01 ~ 2022.07] AI 모델을 이용한 폐의 허탈성 정도 측정 방법 개발
 #### 연세대학교 대학원
 - 폐의 허탈성 검증 방법 중 하나로 사용되는 Global Inhomogeneity index(GI index)는 사람의 개입으로 인해 index 값이 달라지는 문제점을 가지고 있으며, 이 문제점을 단 하나의 EIT 사진만을 이용하는 AI 모델로 해결하고자 함
 - EIDORS를 이용하여 커스텀 EIT 데이터 셋 [제작](https://github.com/WondooSeo/Making_EIT_Data_with_EIDORS)
