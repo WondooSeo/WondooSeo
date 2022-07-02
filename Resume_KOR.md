@@ -85,7 +85,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 
 # PAPER
 ### International Conference
-- [1] **Won-Doo Seo*** and Hyeuknam Kwon, "The degree of lung collapse estimation method using convolutional autoencoder and neural regression in electrical impedance tomography," ICBEM-ICEBI-EIT 2022, Seoul, Republic of Korea, June 29-July 1, 2022. [[LINK]](https://drive.google.com/file/d/1HagwwV2p9zmP1-nlHbxwPbtn9jqb3m5v/view?usp=sharing)
+- [1] **Won-Doo Seo*** and Hyeuknam Kwon, "The degree of lung collapse estimation method using convolutional autoencoder and neural regression in electrical impedance tomography," Proceedings of ICBEM-ICEBI-EIT 2022, Seoul, Republic of Korea, June 29-July 1, 2022. [[LINK]](https://drive.google.com/file/d/1HagwwV2p9zmP1-nlHbxwPbtn9jqb3m5v/view?usp=sharing)
 
 ### Domestic Journal
 - [1] **Won-Doo Seo*** and Han Ul Yoon, "Simultaneous inter-channel EEG activation and brain functional connectivity," Journal of the KIIS, Vol. 30, No. 6, pp. 465-471, December, 2020. [[LINK]](https://drive.google.com/file/d/1ZfJnI_f0r9sj5RBpiJbK1jODx0ITx5EF/view?usp=sharing)
