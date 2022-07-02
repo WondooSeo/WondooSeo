@@ -70,17 +70,16 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 #### 연세대학교 대학원
 - EEGLAB을 이용하여 뇌졸중 환자와 일반 노인의 로봇 재활 중 발생한 EEG 데이터 중 특정 뇌파 주파수가 활성화되는 특정 시간대 조사
 - Python을 이용하여 특정 시간대에서의 두 그룹의 EEG 데이터 중 공통되는 20채널에 대해 T-SNE 기법을 이용하여 1~3차원으로 [시각화](https://github.com/WondooSeo/T_SNE_Plot)
-- 시각화 된 데이터로 두 그룹 간의 분류 가능성을 검증
+- 시각화 된 데이터로 뇌졸중 환자와 일반 노인 간의 분류 가능성을 검증
 - 2020년 한국지능시스템학회(KIIS) 추계학술대회 oral [발표](https://drive.google.com/file/d/1ftUEXiKrmeX-5CDkfy7_WtL3NAB1wSs8/view?usp=sharing)
 
 ### [2021.01 ~ 2022.07] AI 모델을 이용한 폐의 허탈성 정도 측정 방법 개발
 #### 연세대학교 대학원
-- 폐의 허탈성 검증 방법 중 하나로 사용되는 Global Inhomogeneity index(GI index)는 사람의 개입으로 인해 index 값이 달라지는 문제점을 가지고 있으며, 이 문제점을 단 하나의 EIT 사진만을 이용하는 AI 모델로 해결하고자 함
+- 폐의 허탈성(collapse) 검증 방법 중 하나로 사용되는 Global Inhomogeneity index(GI index)는 사람의 개입이 필요한 parameter의 존재로 인해 index 값이 달라지는 문제점을 가지고 있으며, 이 문제점을 단 하나의 EIT image만을 이용하는 AI 모델로 해결하고자 함
 - EIDORS를 이용하여 커스텀 EIT 데이터 셋 [제작](https://github.com/WondooSeo/Making_EIT_Data_with_EIDORS)
-- Convolutional autoencoder와 neural regression을 합친 CAENR을 [제안](https://github.com/WondooSeo/Convolutional_AutoEncoder_Neural_Regression)
-- Convolutional autoencoder는 사진의 차원 축소를 위해 사용되었으며, neural regression은 사진의 축소된 차원 데이터에서 폐의 허탈성 정도(degree of lung collapse)로 회귀시키기 위해 사용
-- Error(μ, σ) = 3%, 2.1% 이며, 최대 오차는 5%를 기록
-- 차후 bio-electrical impedance에서 허탈성 정도를 예측하는 모델 구축을 목표로 함
+- Convolutional autoencoder와 neural regression을 합친 CAENR을 [제안](https://github.com/WondooSeo/Convolutional_AutoEncoder_Neural_Regression)하였고, 여기서 convolutional autoencoder는 사진의 차원 축소를 위해 사용되었으며, neural regression은 사진의 축소된 차원 데이터에서 폐의 허탈성 정도(degree of lung collapse)로 회귀시키기 위해 사용
+- Error(μ, σ) = 3%, 2.1% 이며, max error는 5%를 기록
+- EIT image로의 reconstruction의 cost가 매우 크기 때문에 차후 bio-electrical impedance에서 EIT image의 압축된 feature vector를 거쳐 허탈성 정도를 예측하는 모델 구축을 목표로 함
 - [International Conference of Bioelectromagnetism, Electrical Bioimpedance, and Electrical Impedance Tomography(ICBEM-ICEBI-EIT) 2022](https://icbem-icebi-eit-2022.org/) oral 발표 및 2022년 [한국산업응용수학회(KSIAM)](https://ksiam.org/) 춘계학술대회 poster 발표
 
 # PAPER
