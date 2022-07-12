@@ -5,7 +5,7 @@
 </div>
 
 # 서원두 (徐沅杜 / Won-Doo Seo)
-Mail : wdseo@yonsei.ac.kr</br>
+Mail : miracleboy96@naver.com</br>
 GitHub : https://github.com/WondooSeo</br>
 Homepage : https://sites.google.com/view/miracleboy-wondoo</br>
 SNS (Facebook) : https://www.facebook.com/WonDooSeo/</br>
@@ -33,7 +33,7 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 - **[2012.03 ~ 2015.02]** 낙생고등학교 졸업 (자연계)
 - **[2015.03 ~ 2020.02]** 연세대학교 미래캠퍼스 컴퓨터공학과 졸업 (B. E., 139학점, GPA 3.8/4.3, **재수강/철회 없음**)
 - **[2017.05 ~ 2017.12]** 군복무 - 공군 일병 의병 제대 (사유 : 심실 빈맥 발견, 현재는 매우 건강합니다!)
-- **[2020.03 ~ 2022.08]** 연세대학교 대학원 전산학과 졸업예정 (M. Sc. Candidate, **2년 전액 장학금(조기입학전형 특전)**, 33학점, GPA 3.96/4.3)   </br>
+- **[2020.03 ~ 2022.08]** 연세대학교 대학원 전산학과 졸업예정 (M. Sc., **2년 전액 장학금(조기입학전형 특전)**, 33학점, GPA 3.96/4.3)   </br>
 지도교수 : [권혁남 교수님](https://scholar.google.com/citations?user=IgV5lQYAAAAJ&hl=ko&oi=ao)   </br>
 석사학위논문 제목 : 생체 데이터의 차원 축소를 이용한 뇌졸중 분류 가능성 검증과 폐의 허탈성 검출
 
