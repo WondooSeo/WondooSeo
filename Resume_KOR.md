@@ -85,11 +85,11 @@ Python과 MATLAB을 이용하여 데이터 시각화 및 머신러닝 등 여러
 - Convolutional autoencoder와 neural regression을 합친 CAENR을 [제안](https://github.com/WondooSeo/Convolutional_AutoEncoder_Neural_Regression)하였고, 여기서 convolutional autoencoder는 사진의 차원 축소를 위해 사용되었으며, neural regression은 사진의 축소된 차원 데이터에서 폐의 허탈성 정도(degree of lung collapse)로 회귀시키기 위해 사용
 - Error(μ, σ) = 3%, 2.1% 이며, max error는 5%를 기록
 - EIT image로의 reconstruction의 cost가 매우 크기 때문에 차후 bio-electrical impedance에서 EIT image의 압축된 feature vector를 거쳐 허탈성 정도를 예측하는 모델 구축을 목표로 함
-- [International Conference of Bioelectromagnetism, Electrical Bioimpedance, and Electrical Impedance Tomography(ICBEM-ICEBI-EIT) 2022](https://icbem-icebi-eit-2022.org/) oral 발표 및 2022년 [한국산업응용수학회(KSIAM)](https://ksiam.org/) 춘계학술대회 poster 발표
+- [International Conference of Bioelectromagnetism, Electrical Bioimpedance, and Electrical Impedance Tomography 2022(ICBEM-ICEBI-EIT 2022)](https://icbem-icebi-eit-2022.org/) oral 발표 및 2022년 [한국산업응용수학회(KSIAM)](https://ksiam.org/) 춘계학술대회 poster 발표
 
 # PAPER
 ### International Conference
-- [1] **Won-Doo Seo*** and Hyeuknam Kwon, "The degree of lung collapse estimation method using convolutional autoencoder and neural regression in electrical impedance tomography," Proceedings of ICBEM-ICEBI-EIT 2022, Seoul, Republic of Korea, June 29-July 1, 2022. [[LINK]](https://drive.google.com/file/d/1HagwwV2p9zmP1-nlHbxwPbtn9jqb3m5v/view?usp=sharing)
+- [1] **Won-Doo Seo*** and Hyeuknam Kwon, "The degree of lung collapse estimation method using convolutional autoencoder and neural regression in electrical impedance tomography," ICBEM-ICEBI-EIT 2022, Seoul, Republic of Korea, June 29-July 1, 2022. [[LINK]](https://drive.google.com/file/d/1HagwwV2p9zmP1-nlHbxwPbtn9jqb3m5v/view?usp=sharing)
 
 ### Domestic Journal
 - [1] **Won-Doo Seo*** and Han Ul Yoon, "Simultaneous inter-channel EEG activation and brain functional connectivity," Journal of the KIIS, Vol. 30, No. 6, pp. 465-471, December, 2020. [[LINK]](https://drive.google.com/file/d/1ZfJnI_f0r9sj5RBpiJbK1jODx0ITx5EF/view?usp=sharing)
