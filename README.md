@@ -14,7 +14,7 @@
   
   **Thank you for visiting my GitHub!!!**
   
-  **[Resumé (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/Resume_KOR.md)**
+  **[Resumé (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20WDSeo_CV.pdf)**
 
   **[Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home)**
   
