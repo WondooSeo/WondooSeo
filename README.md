@@ -16,7 +16,12 @@
   
   **[Resumé (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20WDSeo_CV.pdf)**
 
+<!--
   **[Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home)**
+-->
+
+  **[Tech Blog (KOR)](https://movegreen.tistory.com/)**
+  
   
   **Current Goal : 1 Day 1 Commit 1 Solve**
   
