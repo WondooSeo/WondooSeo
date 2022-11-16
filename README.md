@@ -20,12 +20,15 @@
   **Thank you for visiting my GitHub!!!**
 <!--  
   **[Resumé (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20WDSeo_CV.pdf)**
--->
 <!--
   **[Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home)**
 -->
 
-  **[Tech Blog (KOR)](https://movegreen.tistory.com/)**
+  **[CV (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20CV_221117.pdf)**
+
+  **[Portfolio (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20Portfolio_221117.pdf)**
+
+  **[Tech Blog (KOR)](https://movegreen.tistory.com)**
   
   
   **Current Goal : 1 Day 1 Solve & Make machine learning and AI code examples as many as possible**
