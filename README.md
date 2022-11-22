@@ -68,7 +68,7 @@
   [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/MoveGreen)
   [![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)](https://psnprofiles.com/Move_Green)
   
-  **↓ FAVORITE PLATFORMS ↓**
+  **↓ MY FAVORITE PLATFORMS ↓**
   
   ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
