@@ -35,7 +35,7 @@
   
   ---
   
-  **↓ MY STACKS (Using them fluently with docs) ↓**
+  **↓ MY STACKS (Fluent with docs) ↓**
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -49,7 +49,7 @@
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
   
-  **↓ MY CO-OP TOOLS(Not that fluent) ↓**
+  **↓ MY CO-OP TOOLS (Not that fluent) ↓**
   
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
