@@ -24,9 +24,9 @@
   **[Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home)**
 -->
 
-  **[CV (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20CV_221117.pdf)**
+  <!-- **[CV (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20CV_221117.pdf)** -->
 
-  **[Portfolio (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20Portfolio_221117.pdf)**
+  <!-- **[Portfolio (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20Portfolio_221117.pdf)** -->
 
   **[Tech Blog (KOR)](https://movegreen.tistory.com)**
   
