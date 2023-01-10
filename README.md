@@ -18,11 +18,10 @@
   ![JerryThankYou](https://user-images.githubusercontent.com/62936579/155848063-dc625586-236e-4f50-a564-1d5d30fe59c2.gif)
   
   **Thank you for visiting my GitHub!!!**
-<!--  
-  **[Resumé (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20WDSeo_CV.pdf)**
-<!--
+  
+  <!-- **[Resumé (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20WDSeo_CV.pdf)** -->
+
   **[Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home)**
--->
 
   <!-- **[CV (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20CV_221117.pdf)** -->
 
