@@ -30,7 +30,7 @@
   **[Tech Blog (KOR)](https://movegreen.tistory.com)**
   
   
-  **Current Goal : 1 Day 1 Solve & Make machine learning and AI code examples as many as possible**
+  <!-- **Current Goal : 1 Day 1 Solve & Make machine learning and AI code examples as many as possible** -->
   
   ---
   
