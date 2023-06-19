@@ -33,7 +33,7 @@
 
   ---
 
-  **EDUCATION**
+  **↓ EDUCATION ↓**
 
   **B. E.** in Dept. of Computer Engineering, Yonsei University Mirae Campus (2015-2020)
   
@@ -41,7 +41,7 @@
   
   ---
   
-  **MY STACKS (Fluent with docs)**
+  **↓ MY STACKS (Fluent with docs) ↓**
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -49,7 +49,7 @@
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   
-  **MY TOOLS**
+  **↓ MY TOOLS ↓**
   
   ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
