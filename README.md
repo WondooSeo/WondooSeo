@@ -35,9 +35,9 @@
 
   **↓ EDUCATION ↓**
 
-  **B. E.** in Dept. of Computer Engineering, Yonsei University Mirae Campus (2015-2020)
-  
   **M. Sc.** in Dept. of Computer Science(Wonju), Yonsei University (2020-2022)
+  
+  **B. E.** in Dept. of Computer Engineering, Yonsei University Mirae Campus (2015-2020)
   
   ---
   
