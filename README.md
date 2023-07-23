@@ -30,6 +30,14 @@
   **[Tech Blog (KOR)](https://movegreen.tistory.com)**
   
   <!-- **Current Goal : 1 Day 1 Solve & Make machine learning and AI code examples as many as possible** -->
+  
+  ---
+  
+  **↓ CAREER ↓**
+
+  **Researcher**, Seers Technology (2022-NOW)
+  
+  **Research Intern**, BiLab (2021)
 
   ---
 
