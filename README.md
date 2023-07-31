@@ -35,17 +35,17 @@
   
   **↓ CAREER ↓**
 
-  **Researcher**, Seers Technology (2022-NOW)
+  **Researcher**, [Seers Technology](https://seerstech.com/lang_kr/) (2022-NOW)
   
-  **Research Intern**, BiLab (2021)
+  **Research Intern**, [BiLab](https://bilabhealthcare.com/) (2021)
 
   ---
 
   **↓ EDUCATION ↓**
 
-  **M. Sc.** in Dept. of Computer Science(Wonju), Yonsei University (2020-2022)
+  **M. Sc.** in Dept. of Computer Science(Wonju), [Yonsei University](https://graduate.yonsei.ac.kr/graduate/index.do) (2020-2022)
   
-  **B. E.** in Dept. of Computer Engineering, Yonsei University Mirae Campus (2015-2020)
+  **B. E.** in [Dept. of Computer Engineering](https://sw.yonsei.ac.kr/), [Yonsei University Mirae Campus](https://www.yonsei.ac.kr/wj/) (2015-2020)
   
   ---
   
