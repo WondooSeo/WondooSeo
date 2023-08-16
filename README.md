@@ -6,7 +6,7 @@
   
   <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:548986,100:113C56&height=200&section=header&fontColor=FFFFFF&fontAlignY=30&descAlignY=50&text=Welcome!&desc=Won-Doo%20Seo's%20GitHub&fontSize=50) -->
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WondooSeo&count_private=true&show_icons=true&theme=dark)
+  <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WondooSeo&count_private=true&show_icons=true&theme=dark) -->
   
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WondooSeo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
   
