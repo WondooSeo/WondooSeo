@@ -43,7 +43,7 @@
 
   **↓ EDUCATION ↓**
 
-  **M. Sc.** in Dept. of Computer Science(Wonju), [Yonsei University](https://graduate.yonsei.ac.kr/graduate/index.do) (2020-2022)
+  **M. Sc.** in [Dept. of Computer Science(Wonju)](https://sw.yonsei.ac.kr/graduate), [Yonsei University](https://graduate.yonsei.ac.kr/graduate/index.do) (2020-2022)
   
   **B. E.** in [Dept. of Computer Engineering](https://sw.yonsei.ac.kr/), [Yonsei University Mirae Campus](https://www.yonsei.ac.kr/wj/) (2015-2020)
   
