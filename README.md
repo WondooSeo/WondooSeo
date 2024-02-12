@@ -27,7 +27,7 @@
 
   <!-- **[Portfolio (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20Portfolio_221117.pdf)** -->
 
-  **[Tech Blog (KOR)](https://movegreen.tistory.com)**
+ <!--  **[Tech Blog (KOR)](https://movegreen.tistory.com)** -->
   
   <!-- **Current Goal : 1 Day 1 Solve & Make machine learning and AI code examples as many as possible** -->
   
@@ -65,14 +65,17 @@
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
   
   **↓ MY CO-OP TOOLS (Not that fluent) ↓**
-  
+
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-  
+
+  <!--
   **↓ NOW STUDYING ↓**
   
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  -->
   
   **↓ CONTACT ME WITH ↓**
   
