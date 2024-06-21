@@ -55,6 +55,8 @@
 
   **Data Analysis**
 
+  **Feature Engineering**
+
   **Bio-Signal Preprocessing**
 
   ---
