@@ -35,7 +35,7 @@
   
   **💼 CAREER 💼**
 
-  **Researcher**, [Seers Technology](https://seerstech.com/lang_kr/) (2022.12 - NOW)
+  **Full-Time Researcher**, [Seers Technology](https://seerstech.com/lang_kr/) (2022.12 - NOW)
   
   **Research Intern**, [BiLab](https://bilabhealthcare.com/) (2021.09 - 2021.12)
 
