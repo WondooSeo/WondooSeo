@@ -48,6 +48,16 @@
   **B. E.** in [Dept. of Computer Engineering](https://sw.yonsei.ac.kr/), [Yonsei University Mirae Campus](https://www.yonsei.ac.kr/wj/) (2015.03 - 2020.02)
   
   ---
+
+  **👀 FIELD OF INTERESTS 👀**
+
+  **Artificial Intelligence** (Including Machine Learning & Deep Learning)
+
+  **Data Analysis**
+
+  **Bio-Signal Preprocessing**
+
+  ---
   
   **📚 MY STACKS (Fluent with docs) 📚**
   
@@ -80,7 +90,7 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   -->
   
-  **👀 MY FAVORITE PLATFORMS 👀**
+  **🧱 MY FAVORITE PLATFORMS 🧱**
   
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
