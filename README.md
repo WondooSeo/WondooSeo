@@ -51,7 +51,7 @@
 
   **👀 FIELD OF INTERESTS 👀**
 
-  **Artificial Intelligence** (Including Machine Learning & Deep Learning)
+  **Machine Learning & Deep Learning**
 
   **Data Analysis**
 
