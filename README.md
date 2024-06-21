@@ -21,7 +21,7 @@
   
   <!-- **[Resumé (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20WDSeo_CV.pdf)** -->
 
-  **[Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home) (RECOMMENDED)**
+  **[Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home) ← RECOMMENDED for more information about me!**
 
   <!-- **[CV (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20CV_221117.pdf)** -->
 
@@ -33,7 +33,7 @@
   
   ---
   
-  **↓ CAREER ↓**
+  **💼 CAREER 💼**
 
   **Researcher**, [Seers Technology](https://seerstech.com/lang_kr/) (2022.12 - NOW)
   
@@ -41,7 +41,7 @@
 
   ---
 
-  **↓ EDUCATION ↓**
+  **🎓 EDUCATION 🎓**
 
   **M. Sc.** in [Dept. of Computer Science(Wonju)](https://sw.yonsei.ac.kr/graduate), [Yonsei University](https://graduate.yonsei.ac.kr/graduate/index.do) (2020.03 - 2022.08)
   
@@ -49,7 +49,7 @@
   
   ---
   
-  **↓ MY STACKS (Fluent with docs) ↓**
+  **📚 MY STACKS (Fluent with docs) 📚**
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -60,14 +60,14 @@
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
   
-  **↓ MY TOOLS ↓**
+  **🧰 MY TOOLS 🧰**
   
   <!-- ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) -->
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
   
-  **↓ MY CO-OP TOOLS ↓**
+  **👨‍👦‍👦 MY CO-OP TOOLS 👨‍👦‍👦**
 
   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -80,7 +80,7 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   -->
   
-  **↓ MY FAVORITE PLATFORMS ↓**
+  **👀 MY FAVORITE PLATFORMS 👀**
   
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
@@ -88,9 +88,10 @@
   ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
   ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
   <!-- ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) -->
+
+  ---
   
-  
-  **↓ CONTACT ME WITH ↓**
+  **📬 CONTACT ME WITH 📬**
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sentryradar@naver.com)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/miracleboy_wondoo)
