@@ -61,6 +61,8 @@
 
   **Bio-Signal Preprocessing**
 
+  **Game Studies**
+
   ---
   
   **📚 MY STACKS (Fluent with docs) 📚**
