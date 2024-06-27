@@ -37,9 +37,9 @@
   
   **💼 CAREER 💼**
 
-  **Full-Time Researcher** in Medical AI Lab, R&D Center @ [Seers Technology](https://seerstech.com/lang_kr/) (2022.12 - NOW)
+  [__Seers Technology__](https://seerstech.com/lang_kr/) R&D Center Medical AI Lab **Full-Time Researcher** (2022.12 - NOW)
   
-  **Research Intern** in Original Technology Department @ [BiLab](https://bilabhealthcare.com/) (2021.09 - 2021.12)
+  [__BiLab__](https://bilabhealthcare.com/) Original Technology Department **Research Intern** (2021.09 - 2021.12)
 
   ---
 
