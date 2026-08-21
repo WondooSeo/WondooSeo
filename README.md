@@ -37,7 +37,7 @@
   
   **💼 CAREER 💼**
 
-  [__SEERS__](https://seers.co.kr/) R&D Center Medical AI Lab **Full-Time Researcher** (2022.12 - NOW)
+  [__SEERS__](https://seers.co.kr/) AI Team **Full-Time Researcher** (2022.12 - NOW)
   
   [__BiLab__](https://bilabhealthcare.com/) Original Technology Department **Research Intern** (2021.09 - 2021.12)
 
